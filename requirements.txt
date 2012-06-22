@@ -1,0 +1,2 @@
+Initial content for requirements.txt
+Temporary commit content for 2012-06-22T19:56:00
